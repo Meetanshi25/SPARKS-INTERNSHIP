@@ -7,5 +7,4 @@ user can select the amount to be paid and the payment type, e.g.
 credit card, UPI, etc.
 
 * Once the payment is done and invoice will be generated and
-email will be sent to the user for the payment received. The
-invoice will contain the amount.
+email will be sent to the user 
