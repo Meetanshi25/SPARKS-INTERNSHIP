@@ -1,5 +1,5 @@
 # payment-gateway-Sparks_Foundation
-Its An project of Payment Gateway Integration(Done as an Internship task of Sparks Foundation)
+This is a project of Payment Gateway Integration(Done as an Internship task of Sparks Foundation)
 
 * There will be a simple donate button on homepage. On clicking
 the donate button, the user will land on the payment page where
